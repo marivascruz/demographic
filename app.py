@@ -4,7 +4,7 @@ import math
 import matplotlib.pyplot as plt
 import numpy as np
 
-st.title("Advanced Demographic Modeling App (WPP 2024)")
+st.title("Demographic Modeling App (WPP 2024)")
 
 # Load data from output.csv
 @st.cache_data
